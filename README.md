@@ -23,8 +23,9 @@
 
 ## Demo
 
-**Screen Recording:**  
+**Screen Recording:** - Tap on Video if it doesn't load
 
+[![Watch the demo](https://i.imgur.com/tD1IQss.gif)](https://i.imgur.com/tD1IQss.mp4) 
 
 ---
 
